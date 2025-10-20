@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+input {
+    @apply w-full outline-none;
+}
+
+button {
+    @apply w-full h-full;
+}
+
+@theme {
+    --color-custom-blue: #1677ff;
+    --color-custom-blue-light: #0591ff1a;
+    --color-custom-error: #ff4d4f;
+}
