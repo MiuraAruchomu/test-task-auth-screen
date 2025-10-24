@@ -14,7 +14,7 @@
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/MiuraAruchomu/test-task-auth-screen
-cd test-task-account-management-form
+cd test-task-auth-screen
 
 # Установить зависимости
 bun install
